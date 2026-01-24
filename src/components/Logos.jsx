@@ -23,7 +23,7 @@ function Logos() {
                 <p
                     className={`text-center text-sm font-bold text-gray-400 uppercase tracking-widest mb-8 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}
                 >
-                    Confiado por líderes da indústria
+                    Empresas que usam nossa ferramenta
                 </p>
             </div>
 

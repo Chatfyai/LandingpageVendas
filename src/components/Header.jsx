@@ -10,7 +10,7 @@ function Header() {
                 {/* Top Bar: Logo, Menu Button (Mobile) */}
                 <div className="bg-white rounded-full shadow-lg shadow-black/5 px-6 py-3 flex items-center justify-between gap-8 w-full md:w-auto md:justify-start md:mx-0 relative z-50">
                     <div className="flex items-center gap-2">
-                        <span className="material-symbols-outlined text-3xl text-black">bolt</span>
+                        <span className="material-symbols-outlined text-3xl text-zap-green">bolt</span>
                         <span className="text-xl font-bold tracking-tight text-dark-text">Zap Premium</span>
                     </div>
 

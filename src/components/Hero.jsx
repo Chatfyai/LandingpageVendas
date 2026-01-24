@@ -8,10 +8,10 @@ function Hero() {
                 {/* Headline */}
                 <div className="text-center mb-10">
                     <h1 className="text-[3.5rem] sm:text-[5rem] lg:text-[6.5rem] font-bold leading-[0.95] tracking-tighter text-[#2C2E2A] mb-2 animate-fade-in-up opacity-0" style={{ animationDelay: '0.1s', animationFillMode: 'forwards' }}>
-                        Quem responde
+                        Responda rápido
                     </h1>
                     <h1 className="text-[3.5rem] sm:text-[5rem] lg:text-[6.5rem] font-bold leading-[0.95] tracking-tighter text-[#2C2E2A] mb-8 animate-fade-in-up opacity-0" style={{ animationDelay: '0.25s', animationFillMode: 'forwards' }}>
-                        mais rápido,<br />vende mais
+                        e venda mais
                     </h1>
 
                     <p className="text-lg sm:text-xl text-[#2C2E2A] font-medium max-w-2xl mx-auto mb-10 leading-relaxed animate-fade-in-up opacity-0" style={{ animationDelay: '0.4s', animationFillMode: 'forwards' }}>

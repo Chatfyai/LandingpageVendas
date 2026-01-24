@@ -62,9 +62,18 @@ function Pricing() {
                         <h3 className="text-2xl font-bold text-white mb-2">Premium</h3>
                         <p className="text-gray-400 mb-6 text-sm">Para profissionais e equipes de vendas.</p>
 
-                        <div className="flex items-end gap-1 mb-8">
-                            <div className="text-5xl font-bold text-white tracking-tighter">R$ 29,90</div>
-                            <div className="text-gray-400 mb-2 font-medium">/mês</div>
+                        <div className="mb-8">
+                            <div className="text-base text-gray-400 mb-1">
+                                <span>de </span>
+                                <span className="line-through">R$ 59,90</span>
+                                <span> por</span>
+                            </div>
+                            <div className="flex items-end gap-1">
+                                <div className="text-5xl font-bold text-white tracking-tighter">
+                                    R$ 29,<span className="text-2xl align-super">90</span>
+                                </div>
+                                <div className="text-gray-400 mb-2 font-medium">/mês</div>
+                            </div>
                         </div>
 
                         <ul className="space-y-4 mb-10">
